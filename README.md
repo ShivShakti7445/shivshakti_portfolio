@@ -74,22 +74,21 @@
 
 ## 📷 Screenshots
 
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6a95188-b002-47e2-bcf2-25e3a5cfcf4b" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/c41f6881-693e-42e9-b09b-cb0586a560fd" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
   <img src="https://github.com/user-attachments/assets/077cc50a-b67c-4e94-87e1-5f1b9e920aef" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe5cfcda-b765-41e3-bd79-acbeaabaad46" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
-  <img src="https://github.com/user-attachments/assets/d2ba28ae-2d8b-4b14-82c5-93ccce3af6a6" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/b8c75ca6-5f21-4187-9c9d-a9b0da4b7765" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/b7dd9643-da8b-4c5c-979e-07c0c7e51210" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eecfd62b-518d-4389-9898-7388318f558a" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
-  <img src="https://github.com/user-attachments/assets/06bb25b8-7d58-4a2b-b77d-042a0b0e3d94" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/261c4550-07d2-4d7e-a8a1-bbf67c28859f" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f4a21b2e-9830-4e2c-b509-e982799fb9f4" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
-  <img src="https://github.com/user-attachments/assets/49aff497-fd71-4ceb-baf2-acffdd5d69da" width="400" style="border-radius: 15px; margin:10px; box-shadow:0px 6px 12px rgba(0,0,0,0.2);" />
-</p>
+
+
 
 ---
 
