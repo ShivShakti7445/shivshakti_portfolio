@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="#" target="_blank">
-    <img src="https://t4.ftcdn.net/jpg/03/79/40/09/360_F_379400937_dUYIQ7yzPK0PbB9TukDe3InmGRxVcsG5.jpg" alt="Project Banner" width="850" style="border-radius: 20px; box-shadow: 0px 8px 20px rgba(0,0,0,0.3);">
+    <img src="https://as1.ftcdn.net/jpg/02/20/48/72/1000_F_220487271_ywVxN2Jff7qIsIl4CDbPyEux8xI0tWnh.jpg" alt="Project Banner" width="850" style="border-radius: 20px; box-shadow: 0px 8px 20px rgba(0,0,0,0.3);">
   </a>
   <br/><br/>
 
@@ -49,7 +49,6 @@
 ## ⚙️ Tech Stack
 
 💻 **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 4  
-🛠️ **Libraries:** jQuery, AOS (Animate On Scroll), Owl Carousel, Magnific Popup  
 🎨 **Styling:** Custom CSS, Animate.css, Flaticon, Ionicons  
 📱 **Responsive:** Bootstrap Grid System, Mobile-first approach  
 🚀 **Performance:** Optimized images, Lazy loading, Smooth scrolling  
